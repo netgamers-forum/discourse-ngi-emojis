@@ -124,7 +124,7 @@ after_initialize do
     register_emoji "nociao", "/plugins/discourse-ngi-emojis/images/nociao.gif", "ngi"
     register_emoji "nono", "/plugins/discourse-ngi-emojis/images/nono.gif", "ngi"
     register_emoji "notte", "/plugins/discourse-ngi-emojis/images/notte.gif", "ngi"
-    register_emoji "offtopic", "/plugins/discourse-ngi-emojis/images/offtopic.gif", "ngi" -> come la chiamiamo?
+    register_emoji "offtopic", "/plugins/discourse-ngi-emojis/images/offtopic.gif", "ngi" -> come chiamarla? :OT:
     register_emoji "oldrulez", "/plugins/discourse-ngi-emojis/images/oldrulez.gif", "ngi"
     register_emoji "old", "/plugins/discourse-ngi-emojis/images/oold.gif", "ngi" -> old?
     register_emoji "owned", "/plugins/discourse-ngi-emojis/images/owned.gif", "ngi"
@@ -136,7 +136,7 @@ after_initialize do
     register_emoji "Police", "/plugins/discourse-ngi-emojis/images/policeman.gif", "ngi" -> police?
     register_emoji "corn", "/plugins/discourse-ngi-emojis/images/popcorn.gif", "ngi" -> corn?
     register_emoji "bleurgh", "/plugins/discourse-ngi-emojis/images/puke.gif", "ngi" -> bleurgh?
-    register_emoji "redface", "/plugins/discourse-ngi-emojis/images/redface.gif", "ngi" -> come la chiamiamo?
+    register_emoji "redface", "/plugins/discourse-ngi-emojis/images/redface.gif", "ngi" -> come chiamarla? :o
     register_emoji "mmh?", "/plugins/discourse-ngi-emojis/images/roargh.gif", "ngi" -> mmh?
     register_emoji "rolleyes", "/plugins/discourse-ngi-emojis/images/rolleyes.gif", "ngi"
     register_emoji "rosik", "/plugins/discourse-ngi-emojis/images/rosik.gif", "ngi"
@@ -151,12 +151,12 @@ after_initialize do
     register_emoji "sbav", "/plugins/discourse-ngi-emojis/images/sbav.gif", "ngi"
     register_emoji "sbonk", "/plugins/discourse-ngi-emojis/images/sbonk.gif", "ngi"
     register_emoji "mumble", "/plugins/discourse-ngi-emojis/images/scratch.gif", "ngi" -> mumble?
-    register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/shocked.gif", "ngi" -> come la chiamiamo?
+    register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/shocked.gif", "ngi" -> come chiamarla? 8(
     register_emoji "sisone", "/plugins/discourse-ngi-emojis/images/sisone.gif", "ngi"
     register_emoji "skyluke", "/plugins/discourse-ngi-emojis/images/skyluke.gif", "ngi"
     register_emoji "zzz", "/plugins/discourse-ngi-emojis/images/sleeping.gif", "ngi" -> zzz?
     register_emoji "smack", "/plugins/discourse-ngi-emojis/images/smack.gif", "ngi"
-    register_emoji "smile", "/plugins/discourse-ngi-emojis/images/smile.gif", "ngi" -> come la chiamiamo?
+    register_emoji "smile", "/plugins/discourse-ngi-emojis/images/smile.gif", "ngi" -> come chiamarla? :)
     register_emoji "shy", "/plugins/discourse-ngi-emojis/images/smiley10.gif", "ngi" -> shy?
     register_emoji "Prr", "/plugins/discourse-ngi-emojis/images/smiley_37.gif", "ngi" -> prr?
     register_emoji "smoking", "/plugins/discourse-ngi-emojis/images/smokin.gif", "ngi" -> smoking?
@@ -170,8 +170,8 @@ after_initialize do
     register_emoji "thargan", "/plugins/discourse-ngi-emojis/images/thargan.gif", "ngi"
     register_emoji "tharganperma", "/plugins/discourse-ngi-emojis/images/tharganperma.gif", "ngi"
     register_emoji "thinkink", "/plugins/discourse-ngi-emojis/images/thinkink.gif", "ngi"
-    register_emoji "tippen", "/plugins/discourse-ngi-emojis/images/tippen.gif", "ngi" -> come la chiamiamo?
-    register_emoji "tongue", "/plugins/discourse-ngi-emojis/images/tongue.gif", "ngi" -> come la chiamiamo?
+    register_emoji "tippen", "/plugins/discourse-ngi-emojis/images/tippen.gif", "ngi" -> come chiamarla? :PC:
+    register_emoji "tongue", "/plugins/discourse-ngi-emojis/images/tongue.gif", "ngi" -> come chiamarla? :p
     register_emoji "triggeratops", "/plugins/discourse-ngi-emojis/images/triggeratops.gif", "ngi"
     register_emoji "triggered", "/plugins/discourse-ngi-emojis/images/triggered.gif", "ngi"
     register_emoji "ubersisi", "/plugins/discourse-ngi-emojis/images/ubersisi.gif", "ngi"
@@ -184,7 +184,7 @@ after_initialize do
     register_emoji "mexe", "/plugins/discourse-ngi-emojis/images/wallwin.gif", "ngi" -> mexe?
     register_emoji "ciaociao", "/plugins/discourse-ngi-emojis/images/wave.gif", "ngi" -> ciaociao?
     register_emoji "wazzup", "/plugins/discourse-ngi-emojis/images/wazzup.gif", "ngi" -> non trovata su ngi
-    register_emoji "wink", "/plugins/discourse-ngi-emojis/images/wink.gif", "ngi" -> come la chiamiamo?
+    register_emoji "wink", "/plugins/discourse-ngi-emojis/images/wink.gif", "ngi" -> come chiamarla? ;)
     register_emoji "wut", "/plugins/discourse-ngi-emojis/images/wut.gif", "ngi"
     register_emoji "xmas", "/plugins/discourse-ngi-emojis/images/xmas.gif", "ngi" -> non trovata su ngi
     register_emoji "yawn", "/plugins/discourse-ngi-emojis/images/yawn.gif", "ngi"
