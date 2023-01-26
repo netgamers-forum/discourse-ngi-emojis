@@ -5,7 +5,9 @@
 # url: https://github.com/theCrius/discourse-ngi-emojis
 
 after_initialize do
-    # register_emoji "$1", "/plugins/discourse-ngi-emojis/images/$1", "ngi"
+    # Add CSS style
+    register_asset "stylesheets/ngi-emoji.scss"
+    # Add Emoji
     register_emoji "afraid", "/plugins/discourse-ngi-emojis/images/afraid.gif", "ngi"
     register_emoji "afraidsaw", "/plugins/discourse-ngi-emojis/images/afraidsaw.gif", "ngi"
     register_emoji "ahsisi", "/plugins/discourse-ngi-emojis/images/ahsisi.gif", "ngi"
