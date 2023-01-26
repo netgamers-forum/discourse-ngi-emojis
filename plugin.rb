@@ -51,7 +51,7 @@ after_initialize do
     register_emoji "crasd", "/plugins/discourse-ngi-emojis/images/crasd.gif", "ngi"
     register_emoji "crazy", "/plugins/discourse-ngi-emojis/images/crazy.gif", "ngi"
     register_emoji "crismi", "/plugins/discourse-ngi-emojis/images/crismi.gif", "ngi"
-    register_emoji "cry", "/plugins/discourse-ngi-emojis/images/cwm16.gif", "ngi" # cry
+    register_emoji "cry", "/plugins/discourse-ngi-emojis/images/cwm16.gif", "ngi"
     register_emoji "doismile", "/plugins/discourse-ngi-emojis/images/cwm27.gif", "ngi"
     register_emoji "dance", "/plugins/discourse-ngi-emojis/images/dance.gif", "ngi"
     register_emoji "danceperv", "/plugins/discourse-ngi-emojis/images/danceperv.gif", "ngi"
@@ -131,13 +131,13 @@ after_initialize do
     register_emoji "pap", "/plugins/discourse-ngi-emojis/images/pap.gif", "ngi"
     register_emoji "patpat", "/plugins/discourse-ngi-emojis/images/patpat.gif", "ngi"
     register_emoji "piladimerda", "/plugins/discourse-ngi-emojis/images/piladimerda.gif", "ngi"
-    register_emoji "Puah!", "/plugins/discourse-ngi-emojis/images/pizzini.gif", "ngi" #
+    register_emoji "puah!", "/plugins/discourse-ngi-emojis/images/pizzini.gif", "ngi"
     register_emoji "poke", "/plugins/discourse-ngi-emojis/images/poke.gif", "ngi"
-    register_emoji "Police", "/plugins/discourse-ngi-emojis/images/policeman.gif", "ngi"
+    register_emoji "police", "/plugins/discourse-ngi-emojis/images/policeman.gif", "ngi"
     register_emoji "corn", "/plugins/discourse-ngi-emojis/images/popcorn.gif", "ngi"
     register_emoji "bleurgh", "/plugins/discourse-ngi-emojis/images/puke.gif", "ngi"
     register_emoji "ackshually", "/plugins/discourse-ngi-emojis/images/redface.gif", "ngi" # ackshually :o
-    register_emoji "mmh", "/plugins/discourse-ngi-emojis/images/roargh.gif", "ngi" # mmh?
+    register_emoji "mmh", "/plugins/discourse-ngi-emojis/images/roargh.gif", "ngi"
     register_emoji "rolleyes", "/plugins/discourse-ngi-emojis/images/rolleyes.gif", "ngi"
     register_emoji "rosik", "/plugins/discourse-ngi-emojis/images/rosik.gif", "ngi"
     register_emoji "rotflfast", "/plugins/discourse-ngi-emojis/images/rotfl.gif", "ngi"
@@ -158,7 +158,7 @@ after_initialize do
     register_emoji "smack", "/plugins/discourse-ngi-emojis/images/smack.gif", "ngi"
     register_emoji "smile", "/plugins/discourse-ngi-emojis/images/smile.gif", "ngi" # smile :)
     register_emoji "shy", "/plugins/discourse-ngi-emojis/images/smiley10.gif", "ngi"
-    register_emoji "Prr", "/plugins/discourse-ngi-emojis/images/smiley_37.gif", "ngi"
+    register_emoji "prr", "/plugins/discourse-ngi-emojis/images/smiley_37.gif", "ngi"
     register_emoji "smoking", "/plugins/discourse-ngi-emojis/images/smokin.gif", "ngi"
     register_emoji "snob", "/plugins/discourse-ngi-emojis/images/snob.gif", "ngi"
     register_emoji "spammer", "/plugins/discourse-ngi-emojis/images/spam.gif", "ngi"
