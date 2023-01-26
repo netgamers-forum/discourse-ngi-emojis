@@ -4,9 +4,10 @@
 # authors: Crius
 # url: https://github.com/theCrius/discourse-ngi-emojis
 
+# Add CSS style
+register_asset "stylesheets/ngi-emoji.scss"
+
 after_initialize do
-    # Add CSS style
-    register_asset "stylesheets/ngi-emoji.scss"
     # Add Emoji
     register_emoji "afraid", "/plugins/discourse-ngi-emojis/images/afraid.gif", "ngi"
     register_emoji "afraidsaw", "/plugins/discourse-ngi-emojis/images/afraidsaw.gif", "ngi"
