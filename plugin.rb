@@ -109,84 +109,84 @@ after_initialize do
     register_emoji "love", "/plugins/discourse-ngi-emojis/images/love.gif", "ngi"
     register_emoji "mad", "/plugins/discourse-ngi-emojis/images/mad.gif", "ngi"
     register_emoji "madsaw", "/plugins/discourse-ngi-emojis/images/madsawxm6.gif", "ngi" -> madsaw?
-    register_emoji "mecry", "/plugins/discourse-ngi-emojis/images/mecry.gif", "ngi"
-    register_emoji "megaball", "/plugins/discourse-ngi-emojis/images/megaball.gif", "ngi"
-    register_emoji "metal", "/plugins/discourse-ngi-emojis/images/metal.gif", "ngi"
+    register_emoji "bua", "/plugins/discourse-ngi-emojis/images/mecry.gif", "ngi" -> bua?
+    register_emoji "sborone", "/plugins/discourse-ngi-emojis/images/megaball.gif", "ngi" -> sborone?
+    register_emoji "rulez", "/plugins/discourse-ngi-emojis/images/metal.gif", "ngi" -> rulez?
     register_emoji "metarulez", "/plugins/discourse-ngi-emojis/images/metarulez.gif", "ngi"
-    register_emoji "monkey", "/plugins/discourse-ngi-emojis/images/monkey.gif", "ngi"
+    register_emoji "scimmia", "/plugins/discourse-ngi-emojis/images/monkey.gif", "ngi" -> scimmia?
     register_emoji "montex", "/plugins/discourse-ngi-emojis/images/montex.gif", "ngi"
     register_emoji "muhehe", "/plugins/discourse-ngi-emojis/images/muhehe.gif", "ngi"
     register_emoji "mvk", "/plugins/discourse-ngi-emojis/images/mvk.gif", "ngi"
-    register_emoji "nerdmasturbation", "/plugins/discourse-ngi-emojis/images/nerdmasturbation.gif", "ngi"
+    register_emoji "nerdsaw", "/plugins/discourse-ngi-emojis/images/nerdmasturbation.gif", "ngi" -> nerdsaw?
     register_emoji "nobsy", "/plugins/discourse-ngi-emojis/images/nobsy.gif", "ngi"
     register_emoji "nociao", "/plugins/discourse-ngi-emojis/images/nociao.gif", "ngi"
     register_emoji "nono", "/plugins/discourse-ngi-emojis/images/nono.gif", "ngi"
     register_emoji "notte", "/plugins/discourse-ngi-emojis/images/notte.gif", "ngi"
-    register_emoji "offtopic", "/plugins/discourse-ngi-emojis/images/offtopic.gif", "ngi"
+    register_emoji "offtopic", "/plugins/discourse-ngi-emojis/images/offtopic.gif", "ngi" -> come la chiamiamo?
     register_emoji "oldrulez", "/plugins/discourse-ngi-emojis/images/oldrulez.gif", "ngi"
-    register_emoji "oold", "/plugins/discourse-ngi-emojis/images/oold.gif", "ngi"
+    register_emoji "old", "/plugins/discourse-ngi-emojis/images/oold.gif", "ngi" -> old?
     register_emoji "owned", "/plugins/discourse-ngi-emojis/images/owned.gif", "ngi"
     register_emoji "pap", "/plugins/discourse-ngi-emojis/images/pap.gif", "ngi"
     register_emoji "patpat", "/plugins/discourse-ngi-emojis/images/patpat.gif", "ngi"
     register_emoji "piladimerda", "/plugins/discourse-ngi-emojis/images/piladimerda.gif", "ngi"
-    register_emoji "pizzini", "/plugins/discourse-ngi-emojis/images/pizzini.gif", "ngi"
+    register_emoji "Puah!", "/plugins/discourse-ngi-emojis/images/pizzini.gif", "ngi" -> puah?
     register_emoji "poke", "/plugins/discourse-ngi-emojis/images/poke.gif", "ngi"
-    register_emoji "policeman", "/plugins/discourse-ngi-emojis/images/policeman.gif", "ngi"
-    register_emoji "popcorn", "/plugins/discourse-ngi-emojis/images/popcorn.gif", "ngi"
-    register_emoji "puke", "/plugins/discourse-ngi-emojis/images/puke.gif", "ngi"
-    register_emoji "redface", "/plugins/discourse-ngi-emojis/images/redface.gif", "ngi"
-    register_emoji "roargh", "/plugins/discourse-ngi-emojis/images/roargh.gif", "ngi"
+    register_emoji "Police", "/plugins/discourse-ngi-emojis/images/policeman.gif", "ngi" -> police?
+    register_emoji "corn", "/plugins/discourse-ngi-emojis/images/popcorn.gif", "ngi" -> corn?
+    register_emoji "bleurgh", "/plugins/discourse-ngi-emojis/images/puke.gif", "ngi" -> bleurgh?
+    register_emoji "redface", "/plugins/discourse-ngi-emojis/images/redface.gif", "ngi" -> come la chiamiamo?
+    register_emoji "mmh?", "/plugins/discourse-ngi-emojis/images/roargh.gif", "ngi" -> mmh?
     register_emoji "rolleyes", "/plugins/discourse-ngi-emojis/images/rolleyes.gif", "ngi"
     register_emoji "rosik", "/plugins/discourse-ngi-emojis/images/rosik.gif", "ngi"
-    register_emoji "rotfl", "/plugins/discourse-ngi-emojis/images/rotfl.gif", "ngi"
-    register_emoji "rotfl2", "/plugins/discourse-ngi-emojis/images/rotfl2.gif", "ngi"
+    register_emoji "rotflfast", "/plugins/discourse-ngi-emojis/images/rotfl.gif", "ngi" -> rotflfast?
+    register_emoji "ahah", "/plugins/discourse-ngi-emojis/images/rotfl2.gif", "ngi" -> ahah?
     register_emoji "rotflfast", "/plugins/discourse-ngi-emojis/images/rotflfast.gif", "ngi"
-    register_emoji "rotflx", "/plugins/discourse-ngi-emojis/images/rotflx.gif", "ngi"
+    register_emoji "rotfl", "/plugins/discourse-ngi-emojis/images/rotflx.gif", "ngi" -> rotfl?
     register_emoji "rtfm", "/plugins/discourse-ngi-emojis/images/rtfm.gif", "ngi"
-    register_emoji "s11", "/plugins/discourse-ngi-emojis/images/s11.gif", "ngi"
-    register_emoji "s15", "/plugins/discourse-ngi-emojis/images/s15.gif", "ngi"
-    register_emoji "sadomaso", "/plugins/discourse-ngi-emojis/images/sadomaso.gif", "ngi"
+    register_emoji "s11", "/plugins/discourse-ngi-emojis/images/s11.gif", "ngi" -> non trovata su ngi
+    register_emoji "s15", "/plugins/discourse-ngi-emojis/images/s15.gif", "ngi" -> non trovata su ngi
+    register_emoji "frust", "/plugins/discourse-ngi-emojis/images/sadomaso.gif", "ngi" -> frust?
     register_emoji "sbav", "/plugins/discourse-ngi-emojis/images/sbav.gif", "ngi"
     register_emoji "sbonk", "/plugins/discourse-ngi-emojis/images/sbonk.gif", "ngi"
-    register_emoji "scratch", "/plugins/discourse-ngi-emojis/images/scratch.gif", "ngi"
-    register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/shocked.gif", "ngi"
+    register_emoji "mumble", "/plugins/discourse-ngi-emojis/images/scratch.gif", "ngi" -> mumble?
+    register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/shocked.gif", "ngi" -> come la chiamiamo?
     register_emoji "sisone", "/plugins/discourse-ngi-emojis/images/sisone.gif", "ngi"
     register_emoji "skyluke", "/plugins/discourse-ngi-emojis/images/skyluke.gif", "ngi"
-    register_emoji "sleeping", "/plugins/discourse-ngi-emojis/images/sleeping.gif", "ngi"
+    register_emoji "zzz", "/plugins/discourse-ngi-emojis/images/sleeping.gif", "ngi" -> zzz?
     register_emoji "smack", "/plugins/discourse-ngi-emojis/images/smack.gif", "ngi"
-    register_emoji "smile", "/plugins/discourse-ngi-emojis/images/smile.gif", "ngi"
-    register_emoji "smiley10", "/plugins/discourse-ngi-emojis/images/smiley10.gif", "ngi"
-    register_emoji "smiley_37", "/plugins/discourse-ngi-emojis/images/smiley_37.gif", "ngi"
-    register_emoji "smokin", "/plugins/discourse-ngi-emojis/images/smokin.gif", "ngi"
+    register_emoji "smile", "/plugins/discourse-ngi-emojis/images/smile.gif", "ngi" -> come la chiamiamo?
+    register_emoji "shy", "/plugins/discourse-ngi-emojis/images/smiley10.gif", "ngi" -> shy?
+    register_emoji "Prr", "/plugins/discourse-ngi-emojis/images/smiley_37.gif", "ngi" -> prr?
+    register_emoji "smoking", "/plugins/discourse-ngi-emojis/images/smokin.gif", "ngi" -> smoking?
     register_emoji "snob", "/plugins/discourse-ngi-emojis/images/snob.gif", "ngi"
-    register_emoji "spam", "/plugins/discourse-ngi-emojis/images/spam.gif", "ngi"
-    register_emoji "spammeat", "/plugins/discourse-ngi-emojis/images/spammeat.gif", "ngi"
+    register_emoji "spammer", "/plugins/discourse-ngi-emojis/images/spam.gif", "ngi" -> spammer?
+    register_emoji "spam", "/plugins/discourse-ngi-emojis/images/spammeat.gif", "ngi" -> spam?
     register_emoji "spy", "/plugins/discourse-ngi-emojis/images/spy.gif", "ngi"
-    register_emoji "suka", "/plugins/discourse-ngi-emojis/images/suka.gif", "ngi"
+    register_emoji "niubbo", "/plugins/discourse-ngi-emojis/images/suka.gif", "ngi" -> niubbo?
     register_emoji "swear", "/plugins/discourse-ngi-emojis/images/swear.gif", "ngi"
     register_emoji "teach", "/plugins/discourse-ngi-emojis/images/teach.gif", "ngi"
     register_emoji "thargan", "/plugins/discourse-ngi-emojis/images/thargan.gif", "ngi"
     register_emoji "tharganperma", "/plugins/discourse-ngi-emojis/images/tharganperma.gif", "ngi"
     register_emoji "thinkink", "/plugins/discourse-ngi-emojis/images/thinkink.gif", "ngi"
-    register_emoji "tippen", "/plugins/discourse-ngi-emojis/images/tippen.gif", "ngi"
-    register_emoji "tongue", "/plugins/discourse-ngi-emojis/images/tongue.gif", "ngi"
+    register_emoji "tippen", "/plugins/discourse-ngi-emojis/images/tippen.gif", "ngi" -> come la chiamiamo?
+    register_emoji "tongue", "/plugins/discourse-ngi-emojis/images/tongue.gif", "ngi" -> come la chiamiamo?
     register_emoji "triggeratops", "/plugins/discourse-ngi-emojis/images/triggeratops.gif", "ngi"
     register_emoji "triggered", "/plugins/discourse-ngi-emojis/images/triggered.gif", "ngi"
     register_emoji "ubersisi", "/plugins/discourse-ngi-emojis/images/ubersisi.gif", "ngi"
     register_emoji "unsisi", "/plugins/discourse-ngi-emojis/images/unsisi.gif", "ngi"
-    register_emoji "Up_to_something", "/plugins/discourse-ngi-emojis/images/Up_to_something.gif", "ngi"
+    register_emoji "hehe", "/plugins/discourse-ngi-emojis/images/Up_to_something.gif", "ngi" -> hehe?
     register_emoji "veryoldrulez", "/plugins/discourse-ngi-emojis/images/veryoldrulez.gif", "ngi"
     register_emoji "vface", "/plugins/discourse-ngi-emojis/images/vface.gif", "ngi"
     register_emoji "wall", "/plugins/discourse-ngi-emojis/images/wall.gif", "ngi"
     register_emoji "wallace", "/plugins/discourse-ngi-emojis/images/wallace.gif", "ngi"
-    register_emoji "wallwin", "/plugins/discourse-ngi-emojis/images/wallwin.gif", "ngi"
-    register_emoji "wave", "/plugins/discourse-ngi-emojis/images/wave.gif", "ngi"
-    register_emoji "wazzup", "/plugins/discourse-ngi-emojis/images/wazzup.gif", "ngi"
-    register_emoji "wink", "/plugins/discourse-ngi-emojis/images/wink.gif", "ngi"
+    register_emoji "mexe", "/plugins/discourse-ngi-emojis/images/wallwin.gif", "ngi" -> mexe?
+    register_emoji "ciaociao", "/plugins/discourse-ngi-emojis/images/wave.gif", "ngi" -> ciaociao?
+    register_emoji "wazzup", "/plugins/discourse-ngi-emojis/images/wazzup.gif", "ngi" -> non trovata su ngi
+    register_emoji "wink", "/plugins/discourse-ngi-emojis/images/wink.gif", "ngi" -> come la chiamiamo?
     register_emoji "wut", "/plugins/discourse-ngi-emojis/images/wut.gif", "ngi"
-    register_emoji "xmas", "/plugins/discourse-ngi-emojis/images/xmas.gif", "ngi"
+    register_emoji "xmas", "/plugins/discourse-ngi-emojis/images/xmas.gif", "ngi" -> non trovata su ngi
     register_emoji "yawn", "/plugins/discourse-ngi-emojis/images/yawn.gif", "ngi"
     register_emoji "yotsu", "/plugins/discourse-ngi-emojis/images/yotsu.gif", "ngi"
-    register_emoji "zx11shocked", "/plugins/discourse-ngi-emojis/images/zx11shocked.gif", "ngi"
+    register_emoji "bolted", "/plugins/discourse-ngi-emojis/images/zx11shocked.gif", "ngi" -> bolted?
     register_emoji "zzz", "/plugins/discourse-ngi-emojis/images/zzz.gif", "ngi"
 end
