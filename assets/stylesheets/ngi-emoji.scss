@@ -1,0 +1,50 @@
+// Hide default emojis
+.emoji-picker {
+    .categories-column,
+    .footer,
+    .filter,
+    [data-section="smileys_&_emotion"],
+    [data-section="people_&_body"],
+    [data-section="animals_&_nature"],
+    [data-section="food_&_drink"],
+    [data-section="travel_&_places"],
+    [data-section="activities"],
+    [data-section="objects"],
+    [data-section="symbols"],
+    [data-section="flags"],
+    [data-section="ungrouped"] .section-header {
+        display: none;
+    }
+}
+
+.emoji-picker-diversity-picker {
+    display: none;
+}
+
+/* Fix Emoji */
+
+div.topic-post img.emoji[src*="discourse-ngi-emojis"] { /* All posts */
+  width: auto;
+  height: auto;
+}
+
+div.d-editor-preview img.emoji[src*="discourse-ngi-emojis"] { /* Editor preview box */
+  width: auto;
+  height: auto;
+}
+
+div.emoji-modal img.emoji[src*="discourse-ngi-emojis"] { /* Emoji chooser popup */
+  height: auto;
+}
+
+div.d-editor-textarea-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Autocomplete in editor */
+  width: auto;
+}
+
+div.title-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Post titles */
+    width: auto;
+}
+
+td.main-link img.emoji[src*="discourse-ngi-emojis"] { /* Post titles in menus */
+    width: auto;
+}
