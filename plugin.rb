@@ -88,7 +88,7 @@ after_initialize do
     register_emoji "huhuhu", "/plugins/discourse-ngi-emojis/images/huhuhu.gif", "ngi"
     register_emoji "hurr", "/plugins/discourse-ngi-emojis/images/hurr.gif", "ngi"
     register_emoji "o_o", "/plugins/discourse-ngi-emojis/images/O_o.gif", "ngi"
-    register_emoji "clown", "/plugins/discourse-ngi-emojis/images/clown.gif", "ngi"
+    register_emoji "imolan", "/plugins/discourse-ngi-emojis/images/clown.gif", "ngi"
     register_emoji "boo", "/plugins/discourse-ngi-emojis/images/boo.gif", "ngi"
     register_emoji "tajo", "/plugins/discourse-ngi-emojis/images/rofl.gif", "ngi"
     register_emoji "umilia", "/plugins/discourse-ngi-emojis/images/sculacciata.gif", "ngi"
