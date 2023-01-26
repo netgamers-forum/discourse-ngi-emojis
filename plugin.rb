@@ -40,10 +40,10 @@ after_initialize do
     register_emoji "saw", "/plugins/discourse-ngi-emojis/images/Bored_Whackin.gif", "ngi"
     register_emoji "cannabis", "/plugins/discourse-ngi-emojis/images/cannabis.gif", "ngi"
     register_emoji "causeperse", "/plugins/discourse-ngi-emojis/images/causeperse.gif", "ngi"
-    register_emoji "cheers", "/plugins/discourse-ngi-emojis/images/celebrate.gif", "ngi" # cheers
+    register_emoji "cheers", "/plugins/discourse-ngi-emojis/images/celebrate.gif", "ngi"
     register_emoji "cercatore", "/plugins/discourse-ngi-emojis/images/cercatore.gif", "ngi"
     register_emoji "clap", "/plugins/discourse-ngi-emojis/images/clap.gif", "ngi"
-    register_emoji "climb", "/plugins/discourse-ngi-emojis/images/climb2.gif", "ngi" # climb
+    register_emoji "climb", "/plugins/discourse-ngi-emojis/images/climb2.gif", "ngi"
     register_emoji "cnbunseen", "/plugins/discourse-ngi-emojis/images/cnbunseen.gif", "ngi"
     register_emoji "comeatme", "/plugins/discourse-ngi-emojis/images/comeatme.gif", "ngi"
     register_emoji "confused", "/plugins/discourse-ngi-emojis/images/confused.gif", "ngi"
@@ -52,7 +52,7 @@ after_initialize do
     register_emoji "crazy", "/plugins/discourse-ngi-emojis/images/crazy.gif", "ngi"
     register_emoji "crismi", "/plugins/discourse-ngi-emojis/images/crismi.gif", "ngi"
     register_emoji "cry", "/plugins/discourse-ngi-emojis/images/cwm16.gif", "ngi" # cry
-    register_emoji "doismile", "/plugins/discourse-ngi-emojis/images/cwm27.gif", "ngi" # doismile?
+    register_emoji "doismile", "/plugins/discourse-ngi-emojis/images/cwm27.gif", "ngi"
     register_emoji "dance", "/plugins/discourse-ngi-emojis/images/dance.gif", "ngi"
     register_emoji "danceperv", "/plugins/discourse-ngi-emojis/images/danceperv.gif", "ngi"
     register_emoji "deal", "/plugins/discourse-ngi-emojis/images/deal.gif", "ngi"
@@ -79,7 +79,7 @@ after_initialize do
     register_emoji "golfclap", "/plugins/discourse-ngi-emojis/images/golfclap.gif", "ngi"
     register_emoji "goran", "/plugins/discourse-ngi-emojis/images/goran.png", "ngi"
     register_emoji "grin", "/plugins/discourse-ngi-emojis/images/grin.gif", "ngi"
-    register_emoji "lode", "/plugins/discourse-ngi-emojis/images/hail.gif", "ngi" # lode?
+    register_emoji "lode", "/plugins/discourse-ngi-emojis/images/hail.gif", "ngi"
     register_emoji "hangedup", "/plugins/discourse-ngi-emojis/images/hangedup.gif", "ngi" # questa manca su ngi
     register_emoji "harakiri", "/plugins/discourse-ngi-emojis/images/harakiri.gif", "ngi"
     register_emoji "hbrulez", "/plugins/discourse-ngi-emojis/images/hbrulez.gif", "ngi"
@@ -126,7 +126,7 @@ after_initialize do
     register_emoji "notte", "/plugins/discourse-ngi-emojis/images/notte.gif", "ngi"
     register_emoji "offtopic", "/plugins/discourse-ngi-emojis/images/offtopic.gif", "ngi" # offtopic :OT:
     register_emoji "oldrulez", "/plugins/discourse-ngi-emojis/images/oldrulez.gif", "ngi"
-    register_emoji "old", "/plugins/discourse-ngi-emojis/images/oold.gif", "ngi" # old?
+    register_emoji "old", "/plugins/discourse-ngi-emojis/images/oold.gif", "ngi"
     register_emoji "owned", "/plugins/discourse-ngi-emojis/images/owned.gif", "ngi"
     register_emoji "pap", "/plugins/discourse-ngi-emojis/images/pap.gif", "ngi"
     register_emoji "patpat", "/plugins/discourse-ngi-emojis/images/patpat.gif", "ngi"
@@ -154,7 +154,7 @@ after_initialize do
     register_emoji "wat", "/plugins/discourse-ngi-emojis/images/shocked.gif", "ngi" # wat 8(
     register_emoji "sisone", "/plugins/discourse-ngi-emojis/images/sisone.gif", "ngi"
     register_emoji "skyluke", "/plugins/discourse-ngi-emojis/images/skyluke.gif", "ngi"
-    register_emoji "zzz", "/plugins/discourse-ngi-emojis/images/sleeping.gif", "ngi" #
+    register_emoji "zzz", "/plugins/discourse-ngi-emojis/images/sleeping.gif", "ngi"
     register_emoji "smack", "/plugins/discourse-ngi-emojis/images/smack.gif", "ngi"
     register_emoji "smile", "/plugins/discourse-ngi-emojis/images/smile.gif", "ngi" # smile :)
     register_emoji "shy", "/plugins/discourse-ngi-emojis/images/smiley10.gif", "ngi"
@@ -189,6 +189,6 @@ after_initialize do
     register_emoji "xmas", "/plugins/discourse-ngi-emojis/images/xmas.gif", "ngi" # non trovata su ngi
     register_emoji "yawn", "/plugins/discourse-ngi-emojis/images/yawn.gif", "ngi"
     register_emoji "yotsu", "/plugins/discourse-ngi-emojis/images/yotsu.gif", "ngi"
-    register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/zx11shocked.gif", "ngi" # shocked
+    register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/zx11shocked.gif", "ngi"
     register_emoji "zzz", "/plugins/discourse-ngi-emojis/images/zzz.gif", "ngi"
 end
