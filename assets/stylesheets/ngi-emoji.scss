@@ -26,7 +26,7 @@
 
 // Hide non-NGI emoji from suggestions
 li:has(a):not(:has(img[src*="discourse-ngi-emojis"])) {
-  display: none;
+//   display: none;
 }
 
 /* Fix Emoji sizes */
