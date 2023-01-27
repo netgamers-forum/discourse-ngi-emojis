@@ -26,33 +26,33 @@
 
 // Hide non-NGI emoji from suggestions
 li:has(a):not(:has(img[src*="discourse-ngi-emojis"])) {
-display: none;
+  display: none;
 }
 
 /* Fix Emoji sizes */
 
 div.topic-post img.emoji[src*="discourse-ngi-emojis"] { /* All posts */
-width: auto;
-height: auto;
+  width: auto;
+  height: auto;
 }
 
 div.d-editor-preview img.emoji[src*="discourse-ngi-emojis"] { /* Editor preview box */
-width: auto;
-height: auto;
+  width: auto;
+  height: auto;
 }
 
 div.emoji-modal img.emoji[src*="discourse-ngi-emojis"] { /* Emoji chooser popup */
-height: auto;
+  height: auto;
 }
 
 div.d-editor-textarea-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Autocomplete in editor */
-width: auto;
+  width: auto;
 }
 
 div.title-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Post titles */
-  width: auto;
+    width: auto;
 }
 
 td.main-link img.emoji[src*="discourse-ngi-emojis"] { /* Post titles in menus */
-  width: auto;
+    width: auto;
 }
