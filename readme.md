@@ -2,7 +2,7 @@
 
 Auto installer for NGI emoji pack for Discourse
 
-To install, edit the `containers/app.yaml` and add this repo in the plugins:
+To install, edit the `/var/discourse/containers/app.yaml` and add this repo in the plugins:
 
 ```
 ## Plugins go here
