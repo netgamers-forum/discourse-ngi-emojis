@@ -53,7 +53,7 @@ after_initialize do
     register_emoji "crazy", "/plugins/discourse-ngi-emojis/images/crazy.gif", "ngi"
     register_emoji "crismi", "/plugins/discourse-ngi-emojis/images/crismi.gif", "ngi"
     register_emoji "cry", "/plugins/discourse-ngi-emojis/images/cwm16.gif", "ngi"
-    register_emoji "akward", "/plugins/discourse-ngi-emojis/images/cwm27.gif", "ngi"
+    register_emoji "awkward", "/plugins/discourse-ngi-emojis/images/cwm27.gif", "ngi"
     register_emoji "dance", "/plugins/discourse-ngi-emojis/images/dance.gif", "ngi"
     register_emoji "danceperv", "/plugins/discourse-ngi-emojis/images/danceperv.gif", "ngi"
     register_emoji "deal", "/plugins/discourse-ngi-emojis/images/deal.gif", "ngi"
