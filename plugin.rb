@@ -141,10 +141,10 @@ after_initialize do
     register_emoji "mmh", "/plugins/discourse-ngi-emojis/images/roargh.gif", "ngi"
     register_emoji "rolleyes", "/plugins/discourse-ngi-emojis/images/rolleyes.gif", "ngi"
     register_emoji "rosik", "/plugins/discourse-ngi-emojis/images/rosik.gif", "ngi"
-    register_emoji "rotflfast", "/plugins/discourse-ngi-emojis/images/rotfl.gif", "ngi"
+    register_emoji "rotfl", "/plugins/discourse-ngi-emojis/images/rotfl.gif", "ngi"
     register_emoji "ahah", "/plugins/discourse-ngi-emojis/images/rotfl2.gif", "ngi"
     register_emoji "rotflfast", "/plugins/discourse-ngi-emojis/images/rotflfast.gif", "ngi"
-    register_emoji "rotfl", "/plugins/discourse-ngi-emojis/images/rotflx.gif", "ngi"
+    register_emoji "rotflx", "/plugins/discourse-ngi-emojis/images/rotflx.gif", "ngi"
     register_emoji "rtfm", "/plugins/discourse-ngi-emojis/images/rtfm.gif", "ngi"
     register_emoji "kiss", "/plugins/discourse-ngi-emojis/images/s11.gif", "ngi" # kiss non trovata su ngi
     register_emoji "fuckbye", "/plugins/discourse-ngi-emojis/images/s15.gif", "ngi" # fuckbye non trovata su ngi
