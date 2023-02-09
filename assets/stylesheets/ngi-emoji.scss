@@ -25,11 +25,10 @@
 }
 
 // Hide non-NGI emoji from suggestions
-.autocomplete {
-  .ac-emoji,
-  li:has(a):not(:has(img[src*="discourse-ngi-emojis"])) {
-    display: none;
-  }
+.autocomplete.ac-emoji {
+    li:has(a):not(:has(img[src*="discourse-ngi-emojis"])) {
+        display: none;
+    }
 }
 
 /* Fix Emoji sizes */
