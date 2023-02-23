@@ -58,3 +58,7 @@ div.title-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Post titles */
 td.main-link img.emoji[src*="discourse-ngi-emojis"] { /* Post titles in menus */
     width: auto;
 }
+
+div.chat-message-text img.emoji[src*="discourse-ngi-emojis"] { /* chat messages */
+  width: auto;
+}
