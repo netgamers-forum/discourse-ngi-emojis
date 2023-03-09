@@ -34,7 +34,7 @@ after_initialize do
     register_emoji "ban", "/plugins/discourse-ngi-emojis/images/ban.gif", "ngi"
     register_emoji "banana", "/plugins/discourse-ngi-emojis/images/bananabang.gif", "ngi"
     register_emoji "bapho", "/plugins/discourse-ngi-emojis/images/bapho.gif", "ngi"
-    register_emoji "sborone", "/plugins/discourse-ngi-emojis/images/biggrin.gif", "ngi"
+    register_emoji "biggrin", "/plugins/discourse-ngi-emojis/images/biggrin.gif", "ngi"
     register_emoji "yumyum", "/plugins/discourse-ngi-emojis/images/blabla.gif", "ngi"
     register_emoji "blackasd", "/plugins/discourse-ngi-emojis/images/blackasd.gif", "ngi" # questa manca su ngi
     register_emoji "boni", "/plugins/discourse-ngi-emojis/images/boni3.gif", "ngi"
