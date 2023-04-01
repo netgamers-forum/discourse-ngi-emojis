@@ -2,7 +2,7 @@
 # about: Discourse NGI Emojis
 # version: 1.0
 # authors: Crius
-# url: https://github.com/theCrius/discourse-ngi-emojis
+# url: https://github.com/netgamers-forum/discourse-ngi-emojis
 
 # Add CSS style
 register_asset "stylesheets/ngi-emoji.scss"
