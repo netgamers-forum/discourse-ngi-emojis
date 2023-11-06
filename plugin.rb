@@ -29,7 +29,7 @@ after_initialize do
     register_emoji "omg", "/plugins/discourse-ngi-emojis/images/awais.gif", "ngi"
     register_emoji "azz", "/plugins/discourse-ngi-emojis/images/azz.gif", "ngi"
     register_emoji "bacco", "/plugins/discourse-ngi-emojis/images/bacco.gif", "ngi"
-    register_emoji "nono", "/plugins/discourse-ngi-emojis/images/badboy.gif", "ngi"
+    register_emoji "no", "/plugins/discourse-ngi-emojis/images/badboy.gif", "ngi"
     register_emoji "badum", "/plugins/discourse-ngi-emojis/images/badum.gif", "ngi"
     register_emoji "ban", "/plugins/discourse-ngi-emojis/images/ban.gif", "ngi"
     register_emoji "banana", "/plugins/discourse-ngi-emojis/images/bananabang.gif", "ngi"
@@ -123,7 +123,7 @@ after_initialize do
     register_emoji "nerdsaw", "/plugins/discourse-ngi-emojis/images/nerdmasturbation.gif", "ngi"
     register_emoji "nobsy", "/plugins/discourse-ngi-emojis/images/nobsy.gif", "ngi"
     register_emoji "nociao", "/plugins/discourse-ngi-emojis/images/nociao.gif", "ngi"
-    register_emoji "no", "/plugins/discourse-ngi-emojis/images/nono.gif", "ngi"
+    register_emoji "nono", "/plugins/discourse-ngi-emojis/images/nono.gif", "ngi"
     register_emoji "notte", "/plugins/discourse-ngi-emojis/images/notte.gif", "ngi"
     register_emoji "offtopic", "/plugins/discourse-ngi-emojis/images/offtopic.gif", "ngi" # offtopic :OT:
     register_emoji "oldrulez", "/plugins/discourse-ngi-emojis/images/oldrulez.gif", "ngi"
