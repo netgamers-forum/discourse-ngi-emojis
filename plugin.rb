@@ -192,4 +192,5 @@ after_initialize do
     register_emoji "yotsu", "/plugins/discourse-ngi-emojis/images/yotsu.gif", "ngi"
     register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/zx11shocked.gif", "ngi"
     register_emoji "oldzzz", "/plugins/discourse-ngi-emojis/images/zzz.gif", "ngi"
+    register_emoji "madgreen", "/plugins/discourse-ngi-emojis/images/zzz.gif", "ngi"
 end
