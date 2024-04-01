@@ -65,6 +65,7 @@ after_initialize do
     register_emoji "disgust", "/plugins/discourse-ngi-emojis/images/disgust.gif", "ngi"
     register_emoji "duh", "/plugins/discourse-ngi-emojis/images/duh.gif", "ngi"
     register_emoji "dunnasd", "/plugins/discourse-ngi-emojis/images/dunnasd.gif", "ngi"
+    register_emoji "dunnasdsad", "/plugins/discourse-ngi-emojis/images/dunnasdsad.gif", "ngi"
     register_emoji "eek", "/plugins/discourse-ngi-emojis/images/eek.gif", "ngi"
     register_emoji "eretic", "/plugins/discourse-ngi-emojis/images/eretic.gif", "ngi"
     register_emoji "pokerface", "/plugins/discourse-ngi-emojis/images/face4.gif", "ngi" # pokerface :|
