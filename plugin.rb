@@ -190,6 +190,7 @@ after_initialize do
     register_emoji "wut", "/plugins/discourse-ngi-emojis/images/wut.gif", "ngi"
     register_emoji "xmas", "/plugins/discourse-ngi-emojis/images/xmas.gif", "ngi" # non trovata su ngi
     register_emoji "yawn", "/plugins/discourse-ngi-emojis/images/yawn.gif", "ngi"
+    register_emoji "yarr", "/plugins/discourse-ngi-emojis/images/yarr.gif", "ngi"
     register_emoji "yotsu", "/plugins/discourse-ngi-emojis/images/yotsu.gif", "ngi"
     register_emoji "shocked", "/plugins/discourse-ngi-emojis/images/zx11shocked.gif", "ngi"
     register_emoji "oldzzz", "/plugins/discourse-ngi-emojis/images/zzz.gif", "ngi"
