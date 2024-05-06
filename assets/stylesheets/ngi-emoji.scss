@@ -31,7 +31,9 @@
     }
 }
 
-/* Fix Emoji sizes */
+
+/* Make emojis normal size (don't force square) */
+/* https://meta.discourse.org/t/configure-custom-emoji/23365 */
 
 div.topic-post img.emoji[src*="discourse-ngi-emojis"] { /* All posts */
   width: auto;
@@ -53,12 +55,4 @@ div.d-editor-textarea-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Autoco
 
 div.title-wrapper img.emoji[src*="discourse-ngi-emojis"] { /* Post titles */
     width: auto;
-}
-
-td.main-link img.emoji[src*="discourse-ngi-emojis"] { /* Post titles in menus */
-    width: auto;
-}
-
-div.chat-message-text img.emoji[src*="discourse-ngi-emojis"] { /* chat messages */
-  width: auto;
 }
