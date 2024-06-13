@@ -181,6 +181,7 @@ after_initialize do
     register_emoji "hehe", "/plugins/discourse-ngi-emojis/images/Up_to_something.gif", "ngi"
     register_emoji "veryoldrulez", "/plugins/discourse-ngi-emojis/images/veryoldrulez.gif", "ngi"
     register_emoji "vface", "/plugins/discourse-ngi-emojis/images/vface.gif", "ngi"
+    register_emoji "vjoker", "/plugins/discourse-ngi-emojis/images/vjoker.gif", "ngi"
     register_emoji "wall", "/plugins/discourse-ngi-emojis/images/wall.gif", "ngi"
     register_emoji "wallace", "/plugins/discourse-ngi-emojis/images/wallace.gif", "ngi"
     register_emoji "mexe", "/plugins/discourse-ngi-emojis/images/wallwin.gif", "ngi"
