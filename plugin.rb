@@ -99,7 +99,7 @@ after_initialize do
     register_emoji "911", "/plugins/discourse-ngi-emojis/images/ingrato.gif", "ngi"
     register_emoji "insane", "/plugins/discourse-ngi-emojis/images/insane.gif", "ngi" # questa manca su ngi
     register_emoji "jerkbag", "/plugins/discourse-ngi-emojis/images/jerkbag.gif", "ngi"
-    register_emoji "joker", "/plugins/discourse-ngi-emojis/images/joker.gif", "ngi"
+    register_emoji "pagliaccetto", "/plugins/discourse-ngi-emojis/images/joker.gif", "ngi"
     register_emoji "joyrex", "/plugins/discourse-ngi-emojis/images/joyrex.png", "ngi"
     register_emoji "dunno", "/plugins/discourse-ngi-emojis/images/ka.gif", "ngi"
     register_emoji "king", "/plugins/discourse-ngi-emojis/images/king.gif", "ngi"
